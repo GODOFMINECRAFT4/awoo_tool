@@ -13,7 +13,7 @@ namespace Awoo
     public partial class Form1 : Form
     {
         int i;
-        int Number = 5;
+        int Number = 10;
         public Form1()
         {
             InitializeComponent();
