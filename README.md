@@ -1,2 +1,2 @@
 # awoo_tool
-Download
+Download https://github.com/GODOFMINECRAFT4/awoo_tool/releases/tag/V0.1
