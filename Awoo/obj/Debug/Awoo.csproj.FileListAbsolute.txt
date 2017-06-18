@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\bin\Debug\Awoo.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\bin\Debug\Awoo.exe
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\bin\Debug\Awoo.pdb
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.exe
+c:\users\user\documents\visual studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Awoo\Awoo\obj\Debug\Awoo.Awoo.resources
