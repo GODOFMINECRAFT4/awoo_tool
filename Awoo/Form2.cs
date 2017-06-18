@@ -20,11 +20,16 @@ namespace Awoo
         private void Awoo_Load(object sender, EventArgs e)
         {
             AwooText.Text = "awooooooooooooooooooo\noooooooooooooooooo...";
+            Reset();
         }
 
         private void Awoo_FormClosing(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
+        }
+        public void Reset()
+        {
+            //AWOOOOOOOOOOOOOOOOOOOOOOOOO
         }
     }
 }
